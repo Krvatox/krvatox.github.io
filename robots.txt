@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://diskxprogram.github.io/sitemap.xml
+Sitemap: https://krvatox.github.io/sitemap.xml
