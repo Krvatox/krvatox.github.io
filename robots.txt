@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diskxprogram.github.io/sitemap.xml
